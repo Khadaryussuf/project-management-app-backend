@@ -16,6 +16,12 @@ You can use this API in conjunction with my front-end project management app [se
 
 ## How To Use
 
+Clone this repo by using the following to create a copy on your local machine:
+https://github.com/Khadaryussuf/project-management-app-backend
+
+Change your directory to the repo folder:
+cd project-management-app-backend
+
 Install it and run:
 
 ```sh
